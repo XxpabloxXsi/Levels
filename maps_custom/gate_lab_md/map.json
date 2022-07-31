@@ -590,6 +590,7 @@
       "name": "Collision Shape14",
       "properties": {},
       "objectName": "Collision Shape",
+      "mirrorEnabled": 0,
       "points": [
         {
           "x": 5,
@@ -1273,6 +1274,6 @@
   "supportsCTF": false,
   "supportsCP": false,
   "supportsKOTH": false,
-  "customMapUrl": "",
+  "customMapUrl": "https://codeload.github.com/XxpabloxXsi/Levels/zip/refs/heads/main",
   "mirrorMapImages": true
 }

@@ -17,20 +17,20 @@
       "mirrorEnabled": 0,
       "points": [
         {
-          "x": 928,
-          "y": 200
+          "x": 953,
+          "y": 204
         },
         {
-          "x": 1285,
-          "y": 200
+          "x": 1310,
+          "y": 204
         },
         {
-          "x": 1285,
-          "y": 2095
+          "x": 1310,
+          "y": 2099
         },
         {
-          "x": 928,
-          "y": 2095
+          "x": 953,
+          "y": 2099
         }
       ]
     },
@@ -233,7 +233,7 @@
       "mirrorEnabled": 0,
       "points": [
         {
-          "x": 1217,
+          "x": 1214,
           "y": 1093
         },
         {
@@ -242,11 +242,11 @@
         },
         {
           "x": 1282,
-          "y": 1125
+          "y": 1129
         },
         {
-          "x": 1217,
-          "y": 1125
+          "x": 1214,
+          "y": 1129
         }
       ]
     },
@@ -1283,50 +1283,26 @@
       ]
     },
     {
-      "name": "Kill Zone18",
-      "properties": {},
-      "objectName": "Kill Zone",
-      "mirrorEnabled": 0,
-      "points": [
-        {
-          "x": 1259,
-          "y": 1326
-        },
-        {
-          "x": 1272,
-          "y": 1326
-        },
-        {
-          "x": 1272,
-          "y": 1384
-        },
-        {
-          "x": 1259,
-          "y": 1384
-        }
-      ]
-    },
-    {
       "name": "Kill Zone22",
       "properties": {},
       "objectName": "Kill Zone",
       "mirrorEnabled": 0,
       "points": [
         {
-          "x": 1131,
-          "y": 375
+          "x": 1130,
+          "y": 376
         },
         {
-          "x": 1142,
-          "y": 375
+          "x": 1141,
+          "y": 376
         },
         {
-          "x": 1142,
-          "y": 445
+          "x": 1141,
+          "y": 446
         },
         {
-          "x": 1131,
-          "y": 445
+          "x": 1130,
+          "y": 446
         }
       ]
     },
@@ -1346,11 +1322,11 @@
         },
         {
           "x": 983,
-          "y": 907
+          "y": 913
         },
         {
           "x": 970,
-          "y": 907
+          "y": 913
         }
       ]
     },
@@ -1370,11 +1346,11 @@
         },
         {
           "x": 1273,
-          "y": 1450
+          "y": 1456
         },
         {
           "x": 1258,
-          "y": 1450
+          "y": 1456
         }
       ]
     },
@@ -1394,11 +1370,59 @@
         },
         {
           "x": 980,
-          "y": 1800
+          "y": 1806
         },
         {
           "x": 965,
-          "y": 1800
+          "y": 1806
+        }
+      ]
+    },
+    {
+      "name": "Kill Zone18",
+      "properties": {},
+      "objectName": "Kill Zone",
+      "mirrorEnabled": 0,
+      "points": [
+        {
+          "x": 964,
+          "y": 468
+        },
+        {
+          "x": 979,
+          "y": 468
+        },
+        {
+          "x": 979,
+          "y": 511
+        },
+        {
+          "x": 964,
+          "y": 511
+        }
+      ]
+    },
+    {
+      "name": "Kill Zone27",
+      "properties": {},
+      "objectName": "Kill Zone",
+      "mirrorEnabled": 0,
+      "points": [
+        {
+          "x": 1261,
+          "y": 1127
+        },
+        {
+          "x": 1278,
+          "y": 1127
+        },
+        {
+          "x": 1278,
+          "y": 1173
+        },
+        {
+          "x": 1261,
+          "y": 1173
         }
       ]
     },
@@ -1974,18 +1998,6 @@
       }
     },
     {
-      "name": "Map Sprite8",
-      "properties": {
-        "spriteName": "magma_area:fire2"
-      },
-      "objectName": "Map Sprite",
-      "mirrorEnabled": 0,
-      "pos": {
-        "x": 1264,
-        "y": 1354
-      }
-    },
-    {
       "name": "Map Sprite9",
       "properties": {
         "spriteName": "magma_area:fire2"
@@ -1993,8 +2005,8 @@
       "objectName": "Map Sprite",
       "mirrorEnabled": 0,
       "pos": {
-        "x": 1136,
-        "y": 411
+        "x": 1135,
+        "y": 412
       }
     },
     {
@@ -2718,6 +2730,18 @@
       "pos": {
         "x": 973,
         "y": 487
+      }
+    },
+    {
+      "name": "Map Sprite13",
+      "properties": {
+        "spriteName": "magma_area:fire4"
+      },
+      "objectName": "Map Sprite",
+      "mirrorEnabled": 0,
+      "pos": {
+        "x": 1270,
+        "y": 1148
       }
     }
   ],
