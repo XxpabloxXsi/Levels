@@ -242,11 +242,11 @@
         },
         {
           "x": 1282,
-          "y": 1121
+          "y": 1125
         },
         {
           "x": 1217,
-          "y": 1121
+          "y": 1125
         }
       ]
     },
@@ -353,19 +353,19 @@
       "mirrorEnabled": 0,
       "points": [
         {
-          "x": 1120,
-          "y": 1192
+          "x": 1117,
+          "y": 1188
         },
         {
-          "x": 1154,
-          "y": 1192
+          "x": 1152,
+          "y": 1188
         },
         {
-          "x": 1154,
+          "x": 1152,
           "y": 1278
         },
         {
-          "x": 1120,
+          "x": 1117,
           "y": 1278
         }
       ]
@@ -378,11 +378,11 @@
       "points": [
         {
           "x": 1151,
-          "y": 1214
+          "y": 1212
         },
         {
           "x": 1185,
-          "y": 1214
+          "y": 1212
         },
         {
           "x": 1185,
@@ -1289,19 +1289,19 @@
       "mirrorEnabled": 0,
       "points": [
         {
-          "x": 1258,
+          "x": 1259,
           "y": 1326
         },
         {
-          "x": 1271,
+          "x": 1272,
           "y": 1326
         },
         {
-          "x": 1271,
+          "x": 1272,
           "y": 1384
         },
         {
-          "x": 1258,
+          "x": 1259,
           "y": 1384
         }
       ]
@@ -1337,20 +1337,68 @@
       "mirrorEnabled": 0,
       "points": [
         {
-          "x": 971,
-          "y": 780
+          "x": 970,
+          "y": 869
         },
         {
-          "x": 981,
-          "y": 780
+          "x": 983,
+          "y": 869
         },
         {
-          "x": 981,
-          "y": 844
+          "x": 983,
+          "y": 907
         },
         {
-          "x": 971,
-          "y": 844
+          "x": 970,
+          "y": 907
+        }
+      ]
+    },
+    {
+      "name": "Kill Zone24",
+      "properties": {},
+      "objectName": "Kill Zone",
+      "mirrorEnabled": 0,
+      "points": [
+        {
+          "x": 1258,
+          "y": 1410
+        },
+        {
+          "x": 1273,
+          "y": 1410
+        },
+        {
+          "x": 1273,
+          "y": 1450
+        },
+        {
+          "x": 1258,
+          "y": 1450
+        }
+      ]
+    },
+    {
+      "name": "Kill Zone25",
+      "properties": {},
+      "objectName": "Kill Zone",
+      "mirrorEnabled": 0,
+      "points": [
+        {
+          "x": 965,
+          "y": 1763
+        },
+        {
+          "x": 980,
+          "y": 1763
+        },
+        {
+          "x": 980,
+          "y": 1800
+        },
+        {
+          "x": 965,
+          "y": 1800
         }
       ]
     },
@@ -1923,18 +1971,6 @@
       "pos": {
         "x": 1106,
         "y": 1942
-      }
-    },
-    {
-      "name": "Map Sprite7",
-      "properties": {
-        "spriteName": "magma_area:fire2"
-      },
-      "objectName": "Map Sprite",
-      "mirrorEnabled": 0,
-      "pos": {
-        "x": 976,
-        "y": 809
       }
     },
     {
@@ -2634,6 +2670,54 @@
       "pos": {
         "x": 988,
         "y": 1037
+      }
+    },
+    {
+      "name": "Map Sprite7",
+      "properties": {
+        "spriteName": "magma_area:fire4"
+      },
+      "objectName": "Map Sprite",
+      "mirrorEnabled": 0,
+      "pos": {
+        "x": 977,
+        "y": 889
+      }
+    },
+    {
+      "name": "Map Sprite10",
+      "properties": {
+        "spriteName": "magma_area:fire4"
+      },
+      "objectName": "Map Sprite",
+      "mirrorEnabled": 0,
+      "pos": {
+        "x": 1267,
+        "y": 1431
+      }
+    },
+    {
+      "name": "Map Sprite11",
+      "properties": {
+        "spriteName": "magma_area:fire4"
+      },
+      "objectName": "Map Sprite",
+      "mirrorEnabled": 0,
+      "pos": {
+        "x": 974,
+        "y": 1782
+      }
+    },
+    {
+      "name": "Map Sprite12",
+      "properties": {
+        "spriteName": "magma_area:fire4"
+      },
+      "objectName": "Map Sprite",
+      "mirrorEnabled": 0,
+      "pos": {
+        "x": 973,
+        "y": 487
       }
     }
   ],

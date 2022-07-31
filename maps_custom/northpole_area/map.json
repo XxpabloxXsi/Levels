@@ -506,19 +506,19 @@
       "points": [
         {
           "x": 1426,
-          "y": 1141
+          "y": 1142
         },
         {
-          "x": 1496,
-          "y": 1141
+          "x": 1499,
+          "y": 1142
         },
         {
-          "x": 1496,
-          "y": 1182
+          "x": 1499,
+          "y": 1183
         },
         {
           "x": 1426,
-          "y": 1182
+          "y": 1183
         }
       ]
     },
@@ -735,6 +735,220 @@
       ]
     },
     {
+      "name": "Collision Shape29",
+      "properties": {},
+      "objectName": "Collision Shape",
+      "mirrorEnabled": 0,
+      "points": [
+        {
+          "x": 1454,
+          "y": 1170
+        },
+        {
+          "x": 1851,
+          "y": 1170
+        },
+        {
+          "x": 1851,
+          "y": 1182
+        },
+        {
+          "x": 1454,
+          "y": 1182
+        }
+      ]
+    },
+    {
+      "name": "Collision Shape30",
+      "properties": {},
+      "objectName": "Collision Shape",
+      "mirrorEnabled": 0,
+      "points": [
+        {
+          "x": 1715,
+          "y": 957
+        },
+        {
+          "x": 1750,
+          "y": 957
+        },
+        {
+          "x": 1750,
+          "y": 997
+        },
+        {
+          "x": 1715,
+          "y": 997
+        }
+      ]
+    },
+    {
+      "name": "Collision Shape31",
+      "properties": {},
+      "objectName": "Collision Shape",
+      "mirrorEnabled": 0,
+      "points": [
+        {
+          "x": 1750,
+          "y": 971
+        },
+        {
+          "x": 1782,
+          "y": 971
+        },
+        {
+          "x": 1782,
+          "y": 1008
+        },
+        {
+          "x": 1750,
+          "y": 1008
+        }
+      ]
+    },
+    {
+      "name": "Collision Shape32",
+      "properties": {},
+      "objectName": "Collision Shape",
+      "mirrorEnabled": 0,
+      "points": [
+        {
+          "x": 1815,
+          "y": 1016
+        },
+        {
+          "x": 1846,
+          "y": 1016
+        },
+        {
+          "x": 1846,
+          "y": 1054
+        },
+        {
+          "x": 1815,
+          "y": 1054
+        }
+      ]
+    },
+    {
+      "name": "Collision Shape33",
+      "properties": {},
+      "objectName": "Collision Shape",
+      "mirrorEnabled": 0,
+      "points": [
+        {
+          "x": 1847,
+          "y": 1032
+        },
+        {
+          "x": 1878,
+          "y": 1032
+        },
+        {
+          "x": 1878,
+          "y": 1065
+        },
+        {
+          "x": 1847,
+          "y": 1065
+        }
+      ]
+    },
+    {
+      "name": "Collision Shape34",
+      "properties": {},
+      "objectName": "Collision Shape",
+      "mirrorEnabled": 0,
+      "points": [
+        {
+          "x": 918,
+          "y": 569
+        },
+        {
+          "x": 949,
+          "y": 569
+        },
+        {
+          "x": 949,
+          "y": 621
+        },
+        {
+          "x": 918,
+          "y": 621
+        }
+      ]
+    },
+    {
+      "name": "Collision Shape35",
+      "properties": {},
+      "objectName": "Collision Shape",
+      "mirrorEnabled": 0,
+      "points": [
+        {
+          "x": 949,
+          "y": 590
+        },
+        {
+          "x": 980,
+          "y": 590
+        },
+        {
+          "x": 980,
+          "y": 654
+        },
+        {
+          "x": 949,
+          "y": 654
+        }
+      ]
+    },
+    {
+      "name": "Collision Shape36",
+      "properties": {},
+      "objectName": "Collision Shape",
+      "points": [
+        {
+          "x": 1413,
+          "y": 1024
+        },
+        {
+          "x": 1506,
+          "y": 1024
+        },
+        {
+          "x": 1506,
+          "y": 1076
+        },
+        {
+          "x": 1413,
+          "y": 1076
+        }
+      ]
+    },
+    {
+      "name": "Collision Shape37",
+      "properties": {},
+      "objectName": "Collision Shape",
+      "points": [
+        {
+          "x": 1950,
+          "y": 1169
+        },
+        {
+          "x": 2191,
+          "y": 1169
+        },
+        {
+          "x": 2191,
+          "y": 1182
+        },
+        {
+          "x": 1950,
+          "y": 1182
+        }
+      ]
+    },
+    {
       "name": "No Scroll1",
       "properties": {},
       "objectName": "No Scroll",
@@ -833,19 +1047,19 @@
       "mirrorEnabled": 0,
       "points": [
         {
-          "x": 919,
+          "x": 920,
           "y": 553
         },
         {
-          "x": 949,
+          "x": 950,
           "y": 553
         },
         {
-          "x": 949,
+          "x": 950,
           "y": 609
         },
         {
-          "x": 919,
+          "x": 920,
           "y": 609
         }
       ]
